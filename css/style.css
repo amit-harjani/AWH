@@ -817,7 +817,8 @@ label{
   font-weight: 400;
   text-shadow: none;
   font-family: "Rufina", serif;
-  font-size: 60px;
+  font-size: 30px;
+  line-height: 30px;
 }
 .main-slider-area .slider-p p {
   font: 400 18px/28px "Oxygen", sans-serif;
