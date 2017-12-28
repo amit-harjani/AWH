@@ -266,7 +266,8 @@ section.row, header.row, footer.row {
 
 
 .header-area .main-menu nav ul li a {
-  color: #fff;
+ /* color: #fff;*/
+ color:black;
 }
 
 .header-area .socia-icon ul li a {
@@ -295,7 +296,8 @@ section.row, header.row, footer.row {
 
 .header-area .main-menu nav ul li .sub-menu li a:hover,
 .header-area .main-menu nav ul li .sub-menu .active a {
-  color: #14b6f2;
+ /* color: #14b6f2;*/
+ color: black;
 }
 
 /*==== 3.1 mobile menu color ====*/
@@ -323,13 +325,15 @@ section.row, header.row, footer.row {
   background: #101010;
 }
 .main-slider-area .slider .slide-tittle h2 {
-  color: #fff;
+  /*color: #fff;*/
+  color:black;
 }
 .main-slider-area .slider .slide-tittle h2 span {
   color: #14b6f2;
 }
 .main-slider-area .slider .slide-p p {
-  color: #fff;
+  /*color: #fff;*/
+  color: black;
 }
 .main-slider-area .zeus .tp-bullet {
   background-color: rgba(255, 255, 255, 0.3);
